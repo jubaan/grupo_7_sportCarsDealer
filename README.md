@@ -7,11 +7,11 @@
 <br>
 <p align="center">
 	<a href="https://www.digitalhouse.com">
-		<img src="./public/img/dh-logo.png" atl="DigitalHouse">
+		<img src="./public/img/dg-logo.png" atl="DigitalHouse">
 	</a>
 </p>
 
-[digitalhouse-shield]: https://img.shields.io/badge/Proyecto%20Integrador-DigitalHouse-red?style=for-the-badge
+[digitalhouse-shield]: https://img.shields.io/badge/Digital%20House-Sport Cars Dealer-red?style=for-the-badge
 [digitalhouse-url]: https://www.digitalhouse.com
 [license-shield]: https://img.shields.io/badge/licencia-MIT-orange?style=for-the-badge
 [license-url]: https://github.com/enroutesystems/online-form-builder/blob/main/LICENSE.md
