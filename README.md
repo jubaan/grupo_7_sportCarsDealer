@@ -7,7 +7,7 @@
 <br>
 <p align="center">
 	<a href="https://www.digitalhouse.com">
-		<img src="./public/img/digitalhouse-logo.png" atl="DigitalHouse">
+		<img src="./public/img/dh-logo.png" atl="DigitalHouse">
 	</a>
 </p>
 
