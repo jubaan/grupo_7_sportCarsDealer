@@ -60,6 +60,16 @@ Sports Cars Dealer es una empresa establecida en Estados Unidos que se encuentra
 
 Sports Cars Dealer trabaja con 3 marcas de autos lujosos: Ferrari, Porsche, y Lamborghini. Sus servicios mas importantes son la renta y la venta de vehiculos de lujo. Sus principales clientes son personas con un poder adquisitivo elevado, conocedores de los super autos deportivos, que disfrutan del sonido de los motores, de la libertad y adrenalina que estos vehiculos otorgan. Sus principales clientes conviven en grupos de autos de coleccion y participan en eventos amateur de carreras por lo que estan en constante movimiento y requieren de un transporte que les brinde la experiencia a la que estan acostumbrados.
 
+## Diseño del sitio
+### Fuentes
+- Raleway 100
+- Open Sans 300
+- Lato 500
+### Colores
+- #000000
+- #EBDASA
+- #FFFFFF
+
 ## 1er Sprint Wireframe + Boceto
 1. Crear Repositorio del proyecto y agregar colaboradores
 2. Definir tematica del Market Place
