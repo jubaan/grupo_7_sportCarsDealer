@@ -1,0 +1,19 @@
+{
+  "name": "grupo_7_sportcarsdealer",
+  "version": "1.0.0",
+  "description": "[![DigitalHouse][digitalhouse-shield]][digitalhouse-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubaan/grupo_7_sportcarsdealer.git"
+  },
+  "author": "jubaan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jubaan/grupo_7_sportcarsdealer/issues"
+  },
+  "homepage": "https://github.com/jubaan/grupo_7_sportcarsdealer#readme"
+}
