@@ -3,6 +3,7 @@
 - [Zebra - Porsche Rental](#zebra---porsche-rental)
 	- [Introduction](#introduction)
 	- [Project Details](#project-details)
+		- [Live Preview and Screenshots](#live-preview-and-screenshots)
 		- [How to get started](#how-to-get-started)
 		- [Built with](#built-with)
 	- [Requirements](#requirements)
@@ -20,6 +21,8 @@
 
 ## Introduction
 ## Project Details
+
+### Live Preview and Screenshots
 ### How to get started
 1. Clone repository
    ```bash
