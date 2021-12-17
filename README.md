@@ -1,20 +1,34 @@
-[![DigitalHouse][digitalhouse-shield]][digitalhouse-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# Zebra - Porsche Rental
 
-# Sport Cars Dealer
+- [Zebra - Porsche Rental](#zebra---porsche-rental)
+	- [Introduction](#introduction)
+	- [Project Details](#project-details)
+	- [Requirements](#requirements)
+	- [Sprints](#sprints)
+		- [1. Wireframing + Sketch](#1-wireframing--sketch)
+		- [2. HTML + CSS](#2-html--css)
+		- [3. Template Engines](#3-template-engines)
+		- [4. JSON + HTTP request methods](#4-json--http-request-methods)
+		- [5. Middleware + Authentication](#5-middleware--authentication)
+		- [6. Data Base](#6-data-base)
+		- [7. Validations](#7-validations)
+		- [8. APIs + React](#8-apis--react)
+	- [Developers](#developers)
 
-<br>
-<p align="center">
-	<a href="https://www.digitalhouse.com">
-		<img src="./public/img/digitalhouse-logo.png" atl="DigitalHouse">
-	</a>
-</p>
 
-[digitalhouse-shield]: https://img.shields.io/badge/Proyecto%20Integrador-DigitalHouse-red?style=for-the-badge
-[digitalhouse-url]: https://www.digitalhouse.com
-[license-shield]: https://img.shields.io/badge/license-MIT-orange?style=for-the-badge
-[license-url]: https://github.com/enroutesystems/online-form-builder/blob/main/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jubaan
-[product-screenshot]: ./public/screenshot.png
+## Introduction
+## Project Details
+## Requirements
+## Sprints
+### 1. Wireframing + Sketch
+### 2. HTML + CSS
+### 3. Template Engines
+### 4. JSON + HTTP request methods
+### 5. Middleware + Authentication
+### 6. Data Base
+### 7. Validations
+### 8. APIs + React
+## Developers
+Julio Añoveros
+- GitHub [@jubaan](https://github.com/jubaan)
+- LinkedIn [@jubaan](https://www.linkedin.com/in/jubaan)
