@@ -52,7 +52,9 @@
 
 ## Requirements
 ## Sprints
+
 ### 1. Wireframing + Sketch
+- [Zebra Figma Sketch](https://www.figma.com/file/xqOxFpFjoXIX7iT82uZa5X/zebra?node-id=0%3A1)
 ### 2. HTML + CSS
 ### 3. Template Engines
 ### 4. JSON + HTTP request methods
