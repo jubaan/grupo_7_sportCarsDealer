@@ -3,6 +3,8 @@
 - [Zebra - Porsche Rental](#zebra---porsche-rental)
 	- [Introduction](#introduction)
 	- [Project Details](#project-details)
+		- [How to get started](#how-to-get-started)
+		- [Built with](#built-with)
 	- [Requirements](#requirements)
 	- [Sprints](#sprints)
 		- [1. Wireframing + Sketch](#1-wireframing--sketch)
@@ -18,6 +20,36 @@
 
 ## Introduction
 ## Project Details
+### How to get started
+1. Clone repository
+   ```bash
+   git clone https://github.com/jubaan/grupo_7_sportCarsDealer.git
+   ```
+2. Change directory
+   ```bash
+   cd grupo_7_sportCarsDealer
+   ```
+3. Install dependencies
+   ```bash
+   npm i
+   ```
+4. Start project
+   ```bash
+   npm start
+   ```
+5. Visit `localhost`
+   ```bash
+   http://localhost:3000/
+   ```
+
+### Built with
+- JavaScript
+- NodeJS
+- ExpressJS
+- Express Generator
+- HTML & CSS
+
+
 ## Requirements
 ## Sprints
 ### 1. Wireframing + Sketch
