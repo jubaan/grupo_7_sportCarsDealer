@@ -17,6 +17,7 @@
 		- [7. Validations](#7-validations)
 		- [8. APIs + React](#8-apis--react)
 	- [Developers](#developers)
+	- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -83,7 +84,9 @@ Considering this, Zebra wants to revamp its website and has allowed us to start 
 - [Wireframes](https://www.github.com/jubaan/grupo_7_sportCarsDealer/../../../../wireframes%20+%20sketch)
 - [Figma sketch](https://www.figma.com/file/xqOxFpFjoXIX7iT82uZa5X/zebra?node-id=0%3A1)
 - Websites that sparked our design inspiration:
-  - 
+  - [Rental Cars Part 1](https://www.behance.net/gallery/128300933/Rental-Cars-Part-1) and [Rental Cars Part 2](https://www.behance.net/gallery/128308973/Rental-Cars-Part-2) by [Janis Olksnis](https://www.behance.net/janisolksnis)
+  - [Car rental arenda avtomobile](https://www.behance.net/gallery/122405699/Car-rental-arenda-avtomobilej?tracking_source=search_projects_recommended%7Crent%20a%20car) by [Irina Silchenkova](https://www.behance.net/silchenkovecc9)
+  - [Itecar car rental website and reservation interface](https://www.behance.net/gallery/82603097/Itecar-car-rental-website-and-reservation-interface?tracking_source=search_projects_recommended%7Crent%20a%20car) by [igor Vensko](https://www.behance.net/igorV) and [Agencja WiWi](https://www.behance.net/agencjawiwi)
 ### 2. HTML + CSS
 
 ### 3. Template Engines
@@ -104,3 +107,11 @@ Julio Añoveros
 
 - GitHub [@jubaan](https://github.com/jubaan)
 - LinkedIn [@jubaan](https://www.linkedin.com/in/jubaan)
+
+## Acknowledgements
+
+- Special thanks to:
+  - [Janis Olksnis](https://www.behance.net/janisolksnis)
+  - [Irina Silchenkova](https://www.behance.net/silchenkovecc9)
+  - [igor Vensko](https://www.behance.net/igorV)
+  - [Agencja WiWi](https://www.behance.net/agencjawiwi)
