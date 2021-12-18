@@ -3,6 +3,7 @@
 
 * {
   font: 50px 'Montserrat', sans-serif;
+  /* outline: 1px solid red; */
 }
 
 .nav {
@@ -34,8 +35,9 @@
   padding: 5%;
 }
 
-.hero__box {
-  position: absolute;
+.hero__content,
+.hero__icon {
+  position: relative;
   top: 30%;
   color: #fff;
 }
@@ -55,6 +57,11 @@
 }
 
 .hero__icon {
-  margin: 0 50px;
+  top: 60%;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.hero__icon i {
   font-size: 1.5rem;
 }
