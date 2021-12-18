@@ -22,8 +22,23 @@
 
 ## Project Details
 
-Zebra is a fictional US-based car rental company that provides its users the exclusive experience of driving and enjoying a Porsche.
+Zebra is a fictional US-based car rental company that provides its users the exclusive experience of driving and enjoying a Porsche. It is located in the wealthiest cities around the United States, known for its car lovers and passionate automotive communities.
 
+Zebra's customers value time, commodities, relationships, and life. They're fortunate people that drive towards achieving their personal and professional goals. They see in zebra the opportunity to share, be productive and enjoy life while they go or enjoy the ride from point A to point B. 
+
+Considering this, Zebra wants to revamp its website and has allowed us to start from scratch. The requirements for this project are:
+
+- Responsive Website (Mobile, Tablet, and Desktop)
+- Views:
+  - Home
+  - Car detail
+  - Log in form
+  - Sign up form
+  - Reservation form
+  - Booking Reservation Cart
+- User should be able to know about the company, their services, and where to find them.
+- Users should be able to make a reservation and pay for the service.
+- Users should be able to update, change or cancel their reservations.
 
 ### Live Preview and Screenshots
 
