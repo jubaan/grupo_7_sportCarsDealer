@@ -2,10 +2,39 @@
 <html>
   <head>
     <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script
+      src="https://kit.fontawesome.com/d3ab361afb.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+    <header>
+      <nav class="nav flex">
+        <img class="nav__logo logo" src="/images/logo--black.png" alt="zebra" />
+        <i class="fas fa-ellipsis-v nav__menu-icon"></i>
+      </nav>
+      <div class="hero">
+        <div class="hero__box">
+          <h2 class="hero__title">Fall in love. One day at a time.</h2>
+          <h3 class="hero__subtitle">Porsche Drive - Rental</h3>
+          <i class="fas fa-chevron-down hero__icon"></i>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section>
+        <p>about</p>
+      </section>
+      <section>rent a car</section>
+      <section>available cars</section>
+      <section>How to drive a car</section>
+      <section>Know before you drive</section>
+      <section>locations</section>
+    </main>
+    <footer>
+      <p class="copy">copy</p>
+      <a href="#"><img src="" alt="" class="logo--white" /></a>
+    </footer>
   </body>
 </html>
