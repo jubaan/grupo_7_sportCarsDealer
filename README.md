@@ -79,8 +79,11 @@ Considering this, Zebra wants to revamp its website and has allowed us to start 
 
 ### 1. Wireframing + Sketch
 
-- [Zebra Figma Sketch](https://www.figma.com/file/xqOxFpFjoXIX7iT82uZa5X/zebra?node-id=0%3A1)
-
+- [Zebra Project](https://www.github.com/jubaan/grupo_7_sportCarsDealer)
+- [Wireframes](https://www.github.com/jubaan/grupo_7_sportCarsDealer/../../../../wireframes%20+%20sketch)
+- [Figma sketch](https://www.figma.com/file/xqOxFpFjoXIX7iT82uZa5X/zebra?node-id=0%3A1)
+- Websites that sparked our design inspiration:
+  - 
 ### 2. HTML + CSS
 
 ### 3. Template Engines
