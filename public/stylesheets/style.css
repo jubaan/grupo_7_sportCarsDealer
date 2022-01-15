@@ -32,14 +32,13 @@ html {
 
 .nav__menu-icon {
   font-size: 72px;
-  color: #000;
+  color: #fff;
 }
 
 /* Hero */
 
 .hero {
-  background: url('/images/porsche1.webp')
-    no-repeat 30% center scroll;
+  background: url('/images/porsche1.webp') no-repeat 30% center scroll;
   background-size: cover;
   height: 100vh;
   width: 100%;
