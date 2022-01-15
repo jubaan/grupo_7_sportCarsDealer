@@ -2,21 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,700;1,300;1,700&display=swap');
 
 * {
-  font: 50px 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
   /* outline: 1px solid red; */
 }
 
-.nav {
-  padding: 5%;
-  position: fixed;
-  width: 100%;
-  margin: 0 auto;
+html {
+  scroll-behavior: smooth;
 }
 
-.nav__menu-icon {
-  font-size: 72px;
-  color: #000;
-}
+/* Utilities */
 
 .flex {
   display: flex;
@@ -24,13 +19,32 @@
   justify-content: space-between;
 }
 
+/* Navbar */
+
+.nav {
+  padding: 50px;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  margin: 0 auto;
+  z-index: 99;
+}
+
+.nav__menu-icon {
+  font-size: 72px;
+  color: #000;
+}
+
+/* Hero */
+
 .hero {
-  background: url('https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6Q44RtRHo9ZAaDjJu5PcI7tGW3rNbIwNKXv9Z7KcQQ%25yFN5tFAsXrw4r3wo0qnqZr8MCnR4i84tV2YN2OmNyW1QGWgCWKMUuyO8mv60KZvmWTQS9BaifSZN1BDYp9qZ8PpxUSknpcAYCvEKlPoSQuHnvCri2E4OfP3ajmv10IdQ4qTuup3UiMRDwAkHp2KHRMihNyDxMKK%25OnQyEMakQjirJR')
+  background: url('/images/porsche1.webp')
     no-repeat 30% center scroll;
   background-size: cover;
   height: 100vh;
   width: 100%;
   position: relative;
+  top: -172px;
   z-index: -1;
   padding: 5%;
 }
@@ -64,4 +78,16 @@
 
 .hero__icon i {
   font-size: 1.5rem;
+}
+
+/* About */
+
+.about {
+  padding: 5%;
+}
+
+.about p {
+  font-size: 0.3rem;
+  font-weight: 300;
+  margin-bottom: 20px;
 }
