@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styleslogin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+
+    <title>Log in</title>
+</head>
+
+<body>
+
+    <header class="header">
+
+        <div class="container">
+            <img class="logo" src="/img/logozebrablanco.png" alt="">
+            <!-- <h2 class="logo">ZEBRA</h2> -->
+            <nav class="navigation">
+                <ul>
+                    <li><a href="#">INICIO</a></li>
+                    <li><a href="#">MODELOS</a></li>
+                    <li><a href="#">MARCAS</a></li>
+                    <li><a href="#">CARRITO</a></li>
+                    <li><a href="#">SERVICIO AL CLIENTE</a></li>
+                    <li><a href="#"><i class="fas fa-envelope-open-text"></i></a></li>
+                    <li><a href="#"><i class="fas fa-search"></i></a></li>
+                    <li><a href="#"><i class="fas fa-bars"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="formulario">
+        <form action="/register" method="POST">
+
+
+            <section class="menu">
+                <h2>Ingresa</h2>
+                <div class='clase1'>
+                    <!-- <label for="nombre">Nombre de usuario: </label> -->
+                    <input class='casilla' type="text" name="nombre" id="nombre" placeholder="Ingrese su nombre">
+                </div>
+
+                <div class='clase1'>
+                    <!-- <label for="nombre">Contraseña: </label> -->
+                    <input class='casilla' type="password" name="nombre" id="nombre"
+                        placeholder="Ingrese su contraseña">
+                </div>
+
+                <a class="contra" href="/reestabletucontrasena">¿Olvidaste tu contraseña?</a>
+
+                <a class="contra1" href="/reestabletucontrasena">¿Aún no tienes una cuenta?</a>
+
+
+                <button class="boton" type="submit"><a href="/">Ingresar</a></button>
+                <button class="boton2" type="submit"><a href="/">Ingresar como invitado</a></button>
+
+        </form>
+
+    </main>
+
+    <footer>
+        <nav class="navfooter">
+            <ul class="n1">
+                <li><a href="#">EMPRESA</a></li>
+                <li><a href="#">BOLSA DE TRABAJO</a></li>
+                <li><a href="#">AVISO LEGAL Y PRIVACIDAD</a></li>
+                <li><a href="#">CONFIGURACIÓN DE COOKIES</a></li>
+                <li><a href="#">MAPA DEL SITIO</a></li>
+                <li><a href="#">NEWLESTER</a></li>
+            </ul>
+            <ul class="n2">
+                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                <li><a href="#"><i class="far fa-comments"></i></a></li>
+            </ul>
+        </nav>
+
+        <p>
+            Los valores de consumos y emisiones presentes en el sitio web se refieren a su IP geográfica. Dicho valor
+            podría diferir de la realidad si navega a través de una VPN o si la ubicación de su proveedor de Internet no
+            es exacta. Si cree que no está geolocalizado correctamente, contacte con su concesionario de referencia para
+            obtener información válida en su territorio sobre consumos y emisiones.
+        </p>
+
+        <p class="f2">
+            Copyright © 2021 Sports Car Dealers es una sociedad unipersonal de Grupo 7 Digital House.
+
+            Todos los derechos reservados. Núm. IVA IT xxxxxxxxxx</p>
+    </footer>
+</body>
+
+</html>
