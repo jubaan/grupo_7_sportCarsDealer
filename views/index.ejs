@@ -9,13 +9,14 @@
       src="https://kit.fontawesome.com/d3ab361afb.js"
       crossorigin="anonymous"
     ></script>
+    <script src="/javascript/navbarOnScroll.js" async></script>
     <link rel="stylesheet" href="/stylesheets/style.css" />
   </head>
   <body>
     <header>
       <nav class="nav flex">
-        <img class="nav__logo logo" src="/images/logo--white.png" alt="zebra" />
-        <i class="fas fa-ellipsis-v nav__menu-icon"></i>
+        <img class="nav__logo logo--light" src="/images/logo--light.png" alt="zebra" />
+        <i class="fas fa-ellipsis-v nav__menu-icon menu-icon--light"></i>
       </nav>
       <div class="hero">
         <div class="hero__content">
@@ -30,22 +31,43 @@
     <main>
       <section class="about">
         <div>
-          <p>
+          <img class="about__image" src="/images/porsche-driveway.webp" alt="Porsche Drive Way">
+          <p class="about__content">
             Make your next big date a night to remember with a joyride in an
             iconic 911, or take a family road trip in style with the Macan.
           </p>
-          <p>
-            Nowyou can rent the Porsche vehicle of your choice by the day with
+          <p class="about__content">
+            Now you can rent the Porsche vehicle of your choice by the day with
             no long-term commitment, convenient drop-off and secondary insurance
             fully included.
           </p>
-          <p>
+          <p class="about__content">
             No matter the occasion, we’ve got you covered. Your rental may be
             temporary, but the thrill of the drive will stay with you.
           </p>
+          <img class="about__logo" src="/images/porsche-driveLogo.png" alt="Porsche Drive">
         </div>
       </section>
-      <section>rent a car</section>
+      <section class="rent-a-car">
+        <div>
+          <ul class="rent-a-car__list scroll--horizontal list--top">
+            <li class="rent-a-car__item item-first"><a class="rent-a-car__link" href="http://"><h3>911</h3></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a href="http://"></a></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a href="http://"></a></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a href="http://"></a></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a href="http://"></a></li>
+          </ul>
+        </div>
+        <div>
+          <ul class="rent-a-car__list scroll--horizontal">
+            <li class="rent-a-car__item item-first"><a class="rent-a-car__link" href="http://"><h3>Cayenne</h3></a></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a class="rent-a-car__link" href="http://"></a></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a class="rent-a-car__link" href="http://"></a></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a class="rent-a-car__link" href="http://"></a></li>
+            <li class="rent-a-car__item porsche-nineeleven-one"><a class="rent-a-car__link" href="http://"></a></li>
+          </ul>
+        </div>
+      </section>
       <section>available cars</section>
       <section>How to drive a car</section>
       <section>Know before you drive</section>
